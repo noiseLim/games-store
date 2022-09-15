@@ -1,0 +1,9 @@
+#folders
+build/
+node_modules/
+
+#files
+.DS_Store
+.eslintcache
+.stylelintcache
+tsconfig.tsbuildinfo

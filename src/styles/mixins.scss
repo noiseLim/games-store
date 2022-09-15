@@ -1,0 +1,31 @@
+@mixin useThinFont {
+  font-family: "Roboto-Thin", sans-serif;
+  font-weight: 100;
+}
+
+@mixin useLightFont {
+  font-family: "Roboto-Light", sans-serif;
+  font-weight: 300;
+}
+
+@mixin useRegularFont {
+  font-family: "Roboto-Regular", sans-serif;
+  font-weight: 400;
+}
+
+@mixin useMediumFont {
+  font-family: "Roboto-Medium", sans-serif;
+  font-weight: 500;
+}
+
+@mixin mobileMedia {
+  @media only screen and (max-width: 900px) {
+    @content;
+  }
+}
+
+@mixin mobileTablet {
+  @media only screen and (max-width: 1024px) {
+    @content;
+  }
+}

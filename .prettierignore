@@ -1,0 +1,8 @@
+# folders
+build/
+node_modules/
+
+# file types
+*.css
+*.scss
+*.json

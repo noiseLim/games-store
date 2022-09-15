@@ -1,0 +1,8 @@
+.app {
+  min-height: 100vh;
+
+  font-size: calc(10px + 1vmin);
+  background-color: $mainThemeColor;
+  color: $white;
+  @include useRegularFont;
+}

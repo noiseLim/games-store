@@ -1,0 +1,91 @@
+{
+  "name": "games-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve --config webpack/webpack.config.js --env env=dev",
+    "build": "webpack --config webpack/webpack.config.js --env env=prod",
+    "lint": "eslint --fix \"./src/**/*.{js,jsx,ts,tsx,json}\"",
+    "stylelint": "stylelint '**/*{.css,.scss}'",
+    "stylelint:fix": "stylelint '**/*{.css,.scss}' --fix",
+    "format": "prettier --write \"./src/**/*.{js,jsx,ts,tsx,json,css,scss,md}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Webpack",
+    "ReactTS"
+  ],
+  "author": "Aleksey Fedotov",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.6.2",
+    "gsap": "^3.10.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
+    "@babel/preset-typescript": "^7.16.7",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.4",
+    "@types/react": "^18.0.5",
+    "@types/react-dom": "^18.0.1",
+    "@types/react-router-dom": "^5.3.3",
+    "@typescript-eslint/eslint-plugin": "^5.16.0",
+    "@typescript-eslint/parser": "^5.16.0",
+    "babel-loader": "^8.2.4",
+    "css-loader": "^6.7.1",
+    "eslint": "^8.12.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-import-resolver-typescript": "^2.7.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-json": "^3.1.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "eslint-plugin-unused-imports": "^2.0.0",
+    "html-webpack-plugin": "^5.5.0",
+    "husky": "4.3.8",
+    "lint-staged": "^12.3.7",
+    "node-sass": "^7.0.1",
+    "prettier": "^2.6.1",
+    "prettier-eslint": "^13.0.0",
+    "react-refresh": "^0.11.0",
+    "sass-loader": "^12.6.0",
+    "style-loader": "^3.3.1",
+    "stylelint": "^14.6.1",
+    "stylelint-config-idiomatic-order": "^8.1.0",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-recommended-scss": "^6.0.0",
+    "stylelint-config-standard": "^25.0.0",
+    "stylelint-order": "^5.0.0",
+    "stylelint-prettier": "^2.0.0",
+    "stylelint-scss": "^4.2.0",
+    "typescript": "^4.6.3",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.4",
+    "webpack-merge": "^5.8.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx,json}": [
+      "eslint --fix"
+    ],
+    "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
+      "prettier --write"
+    ]
+  }
+}
