@@ -1,4 +1,5 @@
 import HomePage from '../pages/HomePage';
+import ProductsPage from '../pages/ProductsPage';
 import ErrorPage from '../pages/ErrorPage';
 import NotFoundPage from '../pages/NotFoundPage';
 
@@ -18,6 +19,10 @@ const routes: RouteObject[] = [
   {
     path: '/',
     element: <HomePage />,
+  },
+  {
+    path: 'category/:platforms',
+    element: <ProductsPage />,
   },
   {
     path: '/error',

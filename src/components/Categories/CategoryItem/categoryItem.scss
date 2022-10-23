@@ -1,0 +1,22 @@
+.category-item {
+  height: 309px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  text-decoration: none;
+  border-radius: 8px;
+  transition: all .3s;
+  gap: 8px;
+  color: $fedora;
+
+  svg {
+    font-size: 72px;
+  }
+
+  &:hover {
+    background-color: $brightGray;
+  }
+}
