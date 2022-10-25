@@ -118,7 +118,7 @@ const NotFoundPage: FC = () => {
                 <g id='planet'>
                   <circle
                     fill='none'
-                    stroke='#0E0620'
+                    stroke='#f5f5f5'
                     strokeWidth='3'
                     strokeMiterlimit='10'
                     cx='572.859'
@@ -129,7 +129,7 @@ const NotFoundPage: FC = () => {
                   <circle
                     id='craterBig'
                     fill='none'
-                    stroke='#0E0620'
+                    stroke='#f5f5f5'
                     strokeWidth='3'
                     strokeMiterlimit='10'
                     cx='548.891'
@@ -140,7 +140,7 @@ const NotFoundPage: FC = () => {
                   <circle
                     id='craterSmall'
                     fill='none'
-                    stroke='#0E0620'
+                    stroke='#f5f5f5'
                     strokeWidth='3'
                     strokeMiterlimit='10'
                     cx='591.743'
@@ -150,7 +150,7 @@ const NotFoundPage: FC = () => {
                   <path
                     id='ring'
                     fill='none'
-                    stroke='#0E0620'
+                    stroke='#f5f5f5'
                     strokeWidth='3'
                     strokeLinecap='round'
                     strokeMiterlimit='10'
@@ -163,7 +163,7 @@ const NotFoundPage: FC = () => {
                     id='ringShadow'
                     opacity='0.5'
                     fill='none'
-                    stroke='#0E0620'
+                    stroke='#f5f5f5'
                     strokeWidth='3'
                     strokeLinecap='round'
                     strokeMiterlimit='10'
@@ -176,7 +176,7 @@ const NotFoundPage: FC = () => {
                     <g>
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -188,7 +188,7 @@ const NotFoundPage: FC = () => {
 
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -201,7 +201,7 @@ const NotFoundPage: FC = () => {
                     <g>
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -213,7 +213,7 @@ const NotFoundPage: FC = () => {
 
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -226,7 +226,7 @@ const NotFoundPage: FC = () => {
                     <g>
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -238,7 +238,7 @@ const NotFoundPage: FC = () => {
 
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -251,7 +251,7 @@ const NotFoundPage: FC = () => {
                     <g>
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -263,7 +263,7 @@ const NotFoundPage: FC = () => {
 
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -278,7 +278,7 @@ const NotFoundPage: FC = () => {
                     <g>
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -290,7 +290,7 @@ const NotFoundPage: FC = () => {
 
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -303,7 +303,7 @@ const NotFoundPage: FC = () => {
                     <g>
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -315,7 +315,7 @@ const NotFoundPage: FC = () => {
 
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -328,7 +328,7 @@ const NotFoundPage: FC = () => {
                     <g>
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -340,7 +340,7 @@ const NotFoundPage: FC = () => {
 
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -353,7 +353,7 @@ const NotFoundPage: FC = () => {
                     <g>
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -365,7 +365,7 @@ const NotFoundPage: FC = () => {
 
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -378,7 +378,7 @@ const NotFoundPage: FC = () => {
                     <g>
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -390,7 +390,7 @@ const NotFoundPage: FC = () => {
 
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -403,7 +403,7 @@ const NotFoundPage: FC = () => {
                     <g>
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -415,7 +415,7 @@ const NotFoundPage: FC = () => {
 
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeMiterlimit='10'
@@ -429,7 +429,7 @@ const NotFoundPage: FC = () => {
                   <g id='circlesBig'>
                     <circle
                       fill='none'
-                      stroke='#0E0620'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeMiterlimit='10'
@@ -440,7 +440,7 @@ const NotFoundPage: FC = () => {
 
                     <circle
                       fill='none'
-                      stroke='#0E0620'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeMiterlimit='10'
@@ -451,7 +451,7 @@ const NotFoundPage: FC = () => {
 
                     <circle
                       fill='none'
-                      stroke='#0E0620'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeMiterlimit='10'
@@ -462,7 +462,7 @@ const NotFoundPage: FC = () => {
 
                     <circle
                       fill='none'
-                      stroke='#0E0620'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeMiterlimit='10'
@@ -473,7 +473,7 @@ const NotFoundPage: FC = () => {
 
                     <circle
                       fill='none'
-                      stroke='#0E0620'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeMiterlimit='10'
@@ -484,7 +484,7 @@ const NotFoundPage: FC = () => {
 
                     <circle
                       fill='none'
-                      stroke='#0E0620'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeMiterlimit='10'
@@ -495,7 +495,7 @@ const NotFoundPage: FC = () => {
 
                     <circle
                       fill='none'
-                      stroke='#0E0620'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeMiterlimit='10'
@@ -506,7 +506,7 @@ const NotFoundPage: FC = () => {
 
                     <circle
                       fill='none'
-                      stroke='#0E0620'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeMiterlimit='10'
@@ -516,20 +516,20 @@ const NotFoundPage: FC = () => {
                     />
                   </g>
                   <g id='circlesSmall'>
-                    <circle fill='#0E0620' cx='549.879' cy='296.402' r='2.651' />
-                    <circle fill='#0E0620' cx='253.29' cy='229.24' r='2.651' />
-                    <circle fill='#0E0620' cx='434.824' cy='263.931' r='2.651' />
-                    <circle fill='#0E0620' cx='183.708' cy='544.176' r='2.651' />
-                    <circle fill='#0E0620' cx='382.515' cy='530.923' r='2.651' />
-                    <circle fill='#0E0620' cx='130.693' cy='305.608' r='2.651' />
-                    <circle fill='#0E0620' cx='480.296' cy='477.014' r='2.651' />
+                    <circle fill='#f5f5f5' cx='549.879' cy='296.402' r='2.651' />
+                    <circle fill='#f5f5f5' cx='253.29' cy='229.24' r='2.651' />
+                    <circle fill='#f5f5f5' cx='434.824' cy='263.931' r='2.651' />
+                    <circle fill='#f5f5f5' cx='183.708' cy='544.176' r='2.651' />
+                    <circle fill='#f5f5f5' cx='382.515' cy='530.923' r='2.651' />
+                    <circle fill='#f5f5f5' cx='130.693' cy='305.608' r='2.651' />
+                    <circle fill='#f5f5f5' cx='480.296' cy='477.014' r='2.651' />
                   </g>
                 </g>
                 <g id='spaceman' clipPath='url(cordClip)'>
                   <path
                     id='cord'
                     fill='none'
-                    stroke='#0E0620'
+                    stroke='#f5f5f5'
                     strokeWidth='3'
                     strokeLinecap='round'
                     strokeLinejoin='round'
@@ -541,8 +541,8 @@ const NotFoundPage: FC = () => {
 
                   <path
                     id='backpack'
-                    fill='#FFFFFF'
-                    stroke='#0E0620'
+                    fill='#282c34'
+                    stroke='#f5f5f5'
                     strokeWidth='3'
                     strokeLinecap='round'
                     strokeLinejoin='round'
@@ -554,8 +554,8 @@ const NotFoundPage: FC = () => {
                   />
                   <g id='antenna'>
                     <line
-                      fill='#FFFFFF'
-                      stroke='#0E0620'
+                      fill='#282c34'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeLinejoin='round'
@@ -566,8 +566,8 @@ const NotFoundPage: FC = () => {
                       y2='353.753'
                     />
                     <circle
-                      fill='#FFFFFF'
-                      stroke='#0E0620'
+                      fill='#282c34'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeLinejoin='round'
@@ -579,8 +579,8 @@ const NotFoundPage: FC = () => {
                   </g>
                   <g id='armR'>
                     <path
-                      fill='#FFFFFF'
-                      stroke='#0E0620'
+                      fill='#282c34'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeLinejoin='round'
@@ -591,8 +591,8 @@ const NotFoundPage: FC = () => {
                     />
 
                     <path
-                      fill='#FFFFFF'
-                      stroke='#0E0620'
+                      fill='#282c34'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeLinejoin='round'
@@ -605,8 +605,8 @@ const NotFoundPage: FC = () => {
                   </g>
                   <g id='armL'>
                     <path
-                      fill='#FFFFFF'
-                      stroke='#0E0620'
+                      fill='#282c34'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeLinejoin='round'
@@ -617,8 +617,8 @@ const NotFoundPage: FC = () => {
                     />
 
                     <path
-                      fill='#FFFFFF'
-                      stroke='#0E0620'
+                      fill='#282c34'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeLinejoin='round'
@@ -631,8 +631,8 @@ const NotFoundPage: FC = () => {
                   </g>
                   <g id='body'>
                     <path
-                      fill='#FFFFFF'
-                      stroke='#0E0620'
+                      fill='#282c34'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeLinejoin='round'
@@ -644,7 +644,7 @@ const NotFoundPage: FC = () => {
                     />
                     <path
                       fill='none'
-                      stroke='#0E0620'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeLinejoin='round'
@@ -656,8 +656,8 @@ const NotFoundPage: FC = () => {
                   <g id='legs'>
                     <g id='legR'>
                       <path
-                        fill='#FFFFFF'
-                        stroke='#0E0620'
+                        fill='#282c34'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeLinejoin='round'
@@ -669,7 +669,7 @@ const NotFoundPage: FC = () => {
 
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeLinejoin='round'
@@ -682,8 +682,8 @@ const NotFoundPage: FC = () => {
                     </g>
                     <g id='legL'>
                       <path
-                        fill='#FFFFFF'
-                        stroke='#0E0620'
+                        fill='#282c34'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeLinejoin='round'
@@ -695,7 +695,7 @@ const NotFoundPage: FC = () => {
 
                       <line
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeLinecap='round'
                         strokeLinejoin='round'
@@ -710,8 +710,8 @@ const NotFoundPage: FC = () => {
                   <g id='head'>
                     <ellipse
                       transform='matrix(0.259 -0.9659 0.9659 0.259 -51.5445 563.2371)'
-                      fill='#FFFFFF'
-                      stroke='#0E0620'
+                      fill='#282c34'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeLinejoin='round'
@@ -724,7 +724,7 @@ const NotFoundPage: FC = () => {
                     <path
                       id='headStripe'
                       fill='none'
-                      stroke='#0E0620'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeLinejoin='round'
@@ -734,8 +734,8 @@ const NotFoundPage: FC = () => {
                     />
 
                     <path
-                      fill='#FFFFFF'
-                      stroke='#0E0620'
+                      fill='#282c34'
+                      stroke='#f5f5f5'
                       strokeWidth='3'
                       strokeLinecap='round'
                       strokeLinejoin='round'
@@ -749,7 +749,7 @@ const NotFoundPage: FC = () => {
                       <polygon
                         id='glassShine'
                         fill='none'
-                        stroke='#0E0620'
+                        stroke='#f5f5f5'
                         strokeWidth='3'
                         strokeMiterlimit='10'
                         points='
@@ -775,7 +775,7 @@ const NotFoundPage: FC = () => {
               BACK
             </button>
             <Link to='/'>
-              <button className='not-found__button not-found__button_blue'>HOME</button>
+              <button className='not-found__button not-found__button_white'>HOME</button>
             </Link>
           </div>
         </div>
